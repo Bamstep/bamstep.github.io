@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your School Name</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="top-bar">
+            <div class="school-name">
+                <h1>YOUR SCHOOL NAME</h1>
+                <p>A center of academic excellence...</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#">THE SCHOOL</a></li>
+                    <li><a href="#">DEPARTMENTS</a></li>
+                    <li><a href="#">STUDENTS</a></li>
+                    <li><a href="#">ACADEMICS</a></li>
+                    <li><a href="#">CONTACT US</a></li>
+                    <li><a href="#"><i class="fas fa-search"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="news-section">
+            <h2>NEWS | <a href="#">All News ?</a></h2>
+            
+            <div class="news-item">
+                <div class="news-date">25 Jun</div>
+                <h3>Your School Name</h3>
+                <p class="news-category">ADMISSION NEWS</p>
+                <p>Special Admission for New Students into Our School for the 2024/2025 Academic Session</p>
+                <p class="views">236 Views</p>
+            </div>
+            
+            <div class="news-item">
+                <div class="news-date">23 Jun</div>
+                <h3>SCHOOL ADMISSION NEWS</h3>
+                <p>Supplementary Admission into Various Programs for the 2024/2025 Academic Session.</p>
+                <p class="views">683 Views</p>
+            </div>
+            
+            <div class="news-item">
+                <div class="news-date">23 Jun</div>
+                <h3>Our Students Shine at Regional Science Competition</h3>
+                <p class="views">67 Views</p>
+            </div>
+        </section>
+
+        <section class="solutions-section">
+            <h2>SOME SCHOOL INITIATIVES</h2>
+            
+            <div class="solution-item">
+                <h3>DISCOVERY</h3>
+                <p><strong>School E-Library</strong><br>
+                Digital Library Resources</p>
+                
+                <p><strong>School Portal</strong><br>
+                Online Learning Platform</p>
+                
+                <p><strong>Clearance System</strong><br>
+                Student Clearance Process</p>
+                
+                <p><strong>Admission System</strong><br>
+                Central Admission Process</p>
+            </div>
+        </section>
+
+        <section class="welcome-section">
+            <h2>Welcome & Greetings!</h2>
+            <p>It is with great pleasure that I welcome you to [Your School Name], a center of learning and academic excellence. Over the years, our institution has demonstrated commitment to quality education. We are dedicated to sustaining this culture and indeed transmitting it from excellence to distinction. I welcome you to our prestigious institution.</p>
+            <p><strong>[Principal's Name]</strong><br>
+            Principal</p>
+        </section>
+
+        <section class="vision-section">
+            <h2>THE VISION AT A GLANCE</h2>
+            
+            <div class="vision-item">
+                <h3>Academic Excellence</h3>
+                <p>To ensure our academic programs meet the highest standards of education.</p>
+            </div>
+            
+            <div class="vision-item">
+                <h3>Student Development</h3>
+                <p>To nurture well-rounded students prepared for future challenges.</p>
+            </div>
+            
+            <div class="vision-item">
+                <h3>Innovation Hub</h3>
+                <p>To make the school a center for innovation and creative thinking.</p>
+            </div>
+            
+            <div class="vision-item">
+                <h3>Welfare</h3>
+                <p>To promote the welfare of staff and students in the school.</p>
+            </div>
+            
+            <div class="vision-item">
+                <h3>Facilities</h3>
+                <p>To ensure excellent facilities for teaching and learning.</p>
+            </div>
+            
+            <div class="vision-item">
+                <h3>Sports & Arts</h3>
+                <p>To promote participation in sports and creative arts.</p>
+            </div>
+        </section>
+
+        <section class="social-media">
+            <h2>SOCIAL MEDIA FEEDS</h2>
+            <p>We're social</p>
+            
+            <div class="social-item">
+                <h3><i class="fab fa-facebook"></i> facebook</h3>
+                <p>[Your School Name] Official Page<br>
+                Follow Page | 85K Followers</p>
+                <p>5 hours ago<br>
+                Event today: Join us!</p>
+            </div>
+            
+            <div class="video-item">
+                <h3>School Documentary</h3>
+                <p>Watch more on YouTube <i class="fab fa-youtube"></i></p>
+            </div>
+        </section>
+
+        <section class="admissions">
+            <h2>ADMISSIONS</h2>
+            <h3>STUDYING AT [YOUR SCHOOL]</h3>
+            
+            <ul>
+                <li>Junior Secondary</li>
+                <li>Senior Secondary</li>
+                <li>Continuing Education</li>
+                <li>Summer Programs</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <div class="visitor-counter">
+            <p>VISITORS COUNTER</p>
+            <p>Today<br>
+            181</p>
+            <p>Total<br>
+            79,225</p>
+        </div>
+        
+        <div class="copyright">
+            <p>&copy; 2024 [Your School Name]. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
